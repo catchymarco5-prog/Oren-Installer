@@ -1,0 +1,34 @@
+# OREN Pterodactyl Installer
+
+🚀 **OREN Pterodactyl Installer** is a powerful, interactive Linux management suite designed to simplify the installation, configuration, maintenance, and management of Pterodactyl Panel, Wings, Docker, databases, web servers, runtimes, and more.
+
+Built with a clean category-based interface, OREN keeps advanced server tools organized and easy to access.
+
+### ✨ Features
+
+* 🖥️ Pterodactyl Panel management
+* 🪽 Wings & Node management
+* 🐍 Python runtime management
+* 🟢 Node.js runtime management
+* ☕ Java runtime management
+* 🐘 PHP management
+* 🗄️ MariaDB & Redis tools
+* 🐳 Docker management
+* 🌐 Nginx & SSL tools
+* 🔐 Firewall & security tools
+* 💾 Backup & restore utilities
+* 🩺 Server diagnostics
+* 🔧 Maintenance tools
+* ⚡ Server optimization tools
+* 🛠️ Advanced Linux utilities
+* 📊 Automatic system information detection
+* 📝 Detailed installer logging
+* 🎛️ Clean nested menu system
+
+### 🎯 Goal
+
+OREN aims to provide a single, reliable command-line toolkit for managing Pterodactyl infrastructure without needing to remember dozens of Linux commands.
+
+> **Made by Oren**
+>
+> Simple. Powerful. Organized.
